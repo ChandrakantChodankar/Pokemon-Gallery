@@ -51,8 +51,7 @@ react-hooks
 ## **GitHub Repository Settings:**
 
 - **Description:** `Pokemon gallery with search - Built with React & Tailwind CSS`
-- **Website:** (Your deployed URL)
-- **Topics:** Add the tags above
+- **Website:** 
 - **License:** MIT
 
 ---
