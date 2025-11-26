@@ -1,16 +1,58 @@
-# React + Vite
+# Pokemon-Gallery
+A responsive Pokemon gallery web app built with React and Tailwind CSS, featuring real-time search and data from the PokeAPI
+# Pokemon Gallery 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React app to browse and search Pokemon using the PokeAPI.
 
-Currently, two official plugins are available:
+## Features
+✅ Real-time search functionality
+✅ Responsive design (mobile to desktop)
+✅ Modern UI with Tailwind CSS
+✅ Fast parallel API requests
+✅ Error handling & loading states
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+React | Tailwind CSS | PokeAPI
 
-## React Compiler
+## Quick Start
+```bash
+npm install
+npm start
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Screenshots
+<img width="2540" height="1187" alt="image" src="https://github.com/user-attachments/assets/fc268ee9-6a71-4b67-a49b-29065a79ac02" />
+<img width="2559" height="1193" alt="image" src="https://github.com/user-attachments/assets/dae864b8-3172-4c1f-bfa8-3c3f10f303e7" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+Built with ❤️ using React and Tailwind CSS
+```
+
+---
+
+## **Repository Topics/Tags to Add:**
+```
+react
+tailwind-css
+pokeapi
+pokemon
+javascript
+frontend
+web-app
+responsive-design
+api-integration
+react-hooks
+```
+
+---
+
+## **GitHub Repository Settings:**
+
+- **Description:** `Pokemon gallery with search - Built with React & Tailwind CSS`
+- **Website:** (Your deployed URL)
+- **Topics:** Add the tags above
+- **License:** MIT
+
+---
