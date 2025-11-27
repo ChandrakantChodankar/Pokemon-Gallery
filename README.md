@@ -51,7 +51,7 @@ react-hooks
 ## **GitHub Repository Settings:**
 
 - **Description:** `Pokemon gallery with search - Built with React & Tailwind CSS`
-- **Website:** https://chandrakantpokemongallery.netlify.app
+- **Website:** [Click Here](https://chandrakantpokemongallery.netlify.app)
 - **License:** MIT
 
 ---
