@@ -28,10 +28,8 @@ npm start
 
 ---
 Built with ❤️ using React and Tailwind CSS
-```
-```
-
 ---
+
 ## **Repository Topics/Tags to Add:**
 ```
 react
@@ -44,7 +42,6 @@ web-app
 responsive-design
 api-integration
 react-hooks
-
 ```
 
 ---
